@@ -1,0 +1,9 @@
+Package: com.parrotgeek.nmc
+Name: NoMediaControls
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Completely hide iOS 11+ lock screen media controls
+Maintainer: parrotgeek1
+Author: parrotgeek1
+Section: Tweaks

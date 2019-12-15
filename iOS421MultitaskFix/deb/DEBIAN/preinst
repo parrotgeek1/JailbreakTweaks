@@ -1,0 +1,3 @@
+#!/bin/sh
+mv -f /System/Library/CoreServices/SpringBoard.app/SpringBoard /System/Library/CoreServices/SpringBoard.app/SpringBoard.bak
+exit 0

@@ -1,0 +1,10 @@
+Package: com.parrotgeek.ios421mtfix
+Name: iOS 4.2.1 Multitasking Fix
+Depends: firmware (= 4.2.1)
+Conflicts: gsc.armv7
+Architecture: iphoneos-arm
+Description: Fixes Multitasking crash on iOS 4.2.1 on iPhone 3G/iPod touch 2G.
+Maintainer: parrotgeek1 <parrotgeek1@gmail.com>
+Author: parrotgeek1 <parrotgeek1@gmail.com>
+Section: Tweaks
+Version: 1.0.1
